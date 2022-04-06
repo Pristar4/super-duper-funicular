@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "d098643839bc3505",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6a09f7cc41c578b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "000 Zettelkasten/Lineare Gleichungssysteme.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35dd7ca94f1e9ce0",
+    "type": "split",
+    "children": [
+      {
+        "id": "90b83b8f439264e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edbd3a01d9dc828a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "da0d659818a4510c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35dcbd6b365845da",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299
+  },
+  "right": {
+    "id": "1b543199432b3815",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0702b1d5f6bc158",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcb182501dca93f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000 Zettelkasten/Lineare Gleichungssysteme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "60d1d00fc12b08c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000 Zettelkasten/Lineare Gleichungssysteme.md"
+              }
+            }
+          },
+          {
+            "id": "057e838b882b67de",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ffefd998517162b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.6666564941406
+  },
+  "active": "b6a09f7cc41c578b",
+  "lastOpenFiles": [
+    "000 Zettelkasten/Lineare Gleichungssysteme.md",
+    "000 Zettelkasten/Gleichsetzungsverfahren.md",
+    "000 Zettelkasten/African American Experiences.md",
+    "000 Zettelkasten/lineares Kraftgesetz.md",
+    "000 Zettelkasten/Schwingungen und Wellen.md",
+    "000 Zettelkasten/Physik.md",
+    "000 Zettelkasten/Teilchen im elektromagnetischen Feld.md",
+    "000 Zettelkasten/Quantenphysik.md",
+    "000 Zettelkasten/Integralrechnung.md",
+    "000 Zettelkasten/Integration durch Substitution.md"
+  ]
+}
